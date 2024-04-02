@@ -2,6 +2,8 @@
 
 ## Reducing the current value of `in_stock` by one
 
+context _source property
+
 ```
 POST /products/_update/100
 {
